@@ -33,8 +33,6 @@
             <a href="https://www.java.com/en/"><img
                     src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=java&amp;logoColor=white"
                     alt="Java" /></a>
-            <a href="https://www.latex-project.org/"><img
-                    src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&amp;logo=latex&amp;logoColor=white"
                     alt="Python" /></a>
         </td>
     </tr>

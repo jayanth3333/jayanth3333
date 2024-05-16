@@ -1,4 +1,4 @@
-[![IndexPosition](https://user-images.githubusercontent.com/99633082/234297365-71ac1465-4988-423c-b980-25cbae2fb2e3.gif)](https://github.com/jayanth3333)
+[![Jayanth Alluri](https://user-images.githubusercontent.com/99633082/234297365-71ac1465-4988-423c-b980-25cbae2fb2e3.gif)](https://github.com/jayanth3333)
 
 
 # 👀 About Me:

@@ -1,4 +1,3 @@
-[![Jayanth Alluri](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fhello-my-name-is%3Fsort%3Drelevant&psig=AOvVaw3nafztfNfBrIunoLGUXqKl&ust=1715926762922000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCo_7bEkYYDFQAAAAAdAAAAABAE)](https://github.com/jayanth3333)
 
 
 # 👀 About Me:

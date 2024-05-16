@@ -1,4 +1,4 @@
-[![Alluri Jayanth]
+
 
 # 👀 About Me:
 - My name is **`Alluri Jayanth`**, aka `jayanth3333` or `Jay`.

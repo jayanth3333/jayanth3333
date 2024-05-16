@@ -1,3 +1,4 @@
+[![IndexPosition](https://user-images.githubusercontent.com/99633082/234297365-71ac1465-4988-423c-b980-25cbae2fb2e3.gif)](https://github.com/jayanth3333)
 
 
 # 👀 About Me:
@@ -86,3 +87,23 @@
         </td>
     </tr>
 </table>
+
+## 📊 GitHub Stats:
+![Jayanth's Stats](https://github-readme-stats.vercel.app/api?username=jayanth3333&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+
+![Jayanth's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jayanth3333&theme=dracula&hide_border=true)
+
+![Jayanth's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayanth3333&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jayanth3333&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
+
+
+
+
+
+
+
+
+
+

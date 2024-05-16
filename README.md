@@ -33,6 +33,8 @@
             <a href="https://www.java.com/en/"><img
                     src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=java&amp;logoColor=white"
                     alt="Java" /></a>
+            <a href="https://www.google.com/imgres?q=python%20tutorial&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc3%2FPython-logo-notext.svg%2F300px-Python-logo-notext.svg.png&imgrefurl=https%3A%2F%2Fen.wikibooks.org%2Fwiki%2FNon-Programmer%2527s_Tutorial_for_Python_3&docid=soMhmfVoRE8jPM&tbnid=RK8QIKQLEHTh8M&vet=12ahUKEwjI8pa7xJGGAxXA1DgGHdDVDbcQM3oECGMQAA..i&w=300&h=329&hcb=2&ved=2ahUKEwjI8pa7xJGGAxXA1DgGHdDVDbcQM3oECGMQAA"><img
+                    src="https://www.learnpython.org/"
                     alt="Python" /></a>
         </td>
     </tr>
